@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B3BC995C-5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuctionHouse.Domain", "src\AuctionHouse.Domain\AuctionHouse.Domain.csproj", "{73950701-4DE3-4BC1-AC91-9B41313F830C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AunctionHouse.UnitTests", "test\AunctionHouse.UnitTests\AunctionHouse.UnitTests.csproj", "{E484CD0D-B692-4364-85D9-AE246F98D4AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionHouse.UnitTests", "test\AuctionHouse.UnitTests\AuctionHouse.UnitTests.csproj", "{E484CD0D-B692-4364-85D9-AE246F98D4AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
